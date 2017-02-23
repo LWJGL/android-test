@@ -1,3 +1,5 @@
+![lwjgl-android](https://i.imgur.com/bUMfzP6.jpg)
+
 [![License](https://img.shields.io/badge/license-BSD-blue.svg)](https://github.com/LWJGL/android-test/blob/master/LICENSE.md)
 ![Size](https://reposs.herokuapp.com/?path=lwjgl/android-test)
 [![Slack Status](https://slack.lwjgl.org/badge.svg)](https://slack.lwjgl.org/)
